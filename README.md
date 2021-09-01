@@ -6,9 +6,9 @@ ComplexAclAuthorizer.scala is almost the same as SimpleAclAuthorizer.scala on fo
 commit c0518aa65f25317eca0c1da4d350f549d35b8536 (HEAD, tag: 1.0.1-rc2, tag: 1.0.1)
 ```
 
-Diff:
+Reverse diff:
 ```
-iff --git a/src/main/scala/com/opencore/kafka/ComplexAclAuthorizer.scala b/src/main/scala/com/opencore/kafka/ComplexAclAuthorizer.scala
+diff --git a/src/main/scala/com/opencore/kafka/ComplexAclAuthorizer.scala b/src/main/scala/com/opencore/kafka/ComplexAclAuthorizer.scala
 index 91f13ab..3c94964 100644
 --- a/src/main/scala/com/opencore/kafka/ComplexAclAuthorizer.scala
 +++ b/src/main/scala/com/opencore/kafka/ComplexAclAuthorizer.scala
